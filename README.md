@@ -1,4 +1,4 @@
-![Image](Be CSthetic (3).png)
+![Image](9.png)
 
 
 ### 💻 Computer Science Student
