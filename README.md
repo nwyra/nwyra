@@ -30,7 +30,7 @@ As I continue my Computer Science journey, I'm working on improving my skills in
 ## 🩷 Projects
 
 I love creating projects that are both **useful and aesthetic**.
-I also enjoy making my projects feel personal because I believe software doesn't have to be boring to be functional. 🎀
+I also enjoy making my projects feel personal because I believe software doesn't have to be boring to be functional.
 
 ## 💌 My Goal
 
